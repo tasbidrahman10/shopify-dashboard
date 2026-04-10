@@ -54,8 +54,8 @@ An intelligent, browser-first analytics dashboard for Shopify stores. Upload you
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/shopify-ai-analytics.git
-cd shopify-ai-analytics
+git clone https://github.com/your-username/shopify-dashboard.git
+cd shopify-dashboard
 npm install
 ```
 
@@ -162,6 +162,3 @@ Add `GEMINI_API_KEY` in **Vercel → Project → Settings → Environment Variab
 
 ---
 
-## License
-
-MIT
