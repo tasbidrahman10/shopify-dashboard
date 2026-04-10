@@ -3,25 +3,143 @@
 @tailwind utilities;
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --bg-primary: #0a0f1e;
+  --bg-card: rgba(255, 255, 255, 0.04);
+  --border-subtle: rgba(255, 255, 255, 0.08);
+  --border-glow-indigo: rgba(99, 102, 241, 0.3);
+  --border-glow-emerald: rgba(16, 185, 129, 0.3);
+  --border-glow-amber: rgba(245, 158, 11, 0.3);
+  --border-glow-pink: rgba(236, 72, 153, 0.3);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+html {
+  scroll-behavior: smooth;
 }
 
 body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+  background-color: var(--bg-primary);
+  color: #f9fafb;
+  font-family: "Inter", Arial, Helvetica, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
-@layer utilities {
-  .text-balance {
-    text-wrap: balance;
+/* ── Dashboard entrance ──────────────────────────────────────── */
+@keyframes fadeSlideUp {
+  from {
+    opacity: 0;
+    transform: translateY(24px);
   }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-dashboard-enter {
+  animation: fadeSlideUp 0.6s ease-out forwards;
+}
+
+/* Staggered children entrance */
+.stagger-children > * {
+  opacity: 0;
+  animation: fadeSlideUp 0.5s ease-out forwards;
+}
+.stagger-children > *:nth-child(1) {
+  animation-delay: 0.05s;
+}
+.stagger-children > *:nth-child(2) {
+  animation-delay: 0.12s;
+}
+.stagger-children > *:nth-child(3) {
+  animation-delay: 0.19s;
+}
+.stagger-children > *:nth-child(4) {
+  animation-delay: 0.26s;
+}
+.stagger-children > *:nth-child(5) {
+  animation-delay: 0.33s;
+}
+.stagger-children > *:nth-child(6) {
+  animation-delay: 0.4s;
+}
+.stagger-children > *:nth-child(7) {
+  animation-delay: 0.47s;
+}
+
+/* ── Upload zone animated border ────────────────────────────── */
+@keyframes dashOffset {
+  to {
+    stroke-dashoffset: -40;
+  }
+}
+
+@keyframes uploadGlow {
+  0%,
+  100% {
+    box-shadow:
+      0 0 20px rgba(99, 102, 241, 0.1),
+      inset 0 0 20px rgba(99, 102, 241, 0.03);
+    border-color: rgba(99, 102, 241, 0.35);
+  }
+  50% {
+    box-shadow:
+      0 0 35px rgba(139, 92, 246, 0.2),
+      inset 0 0 30px rgba(139, 92, 246, 0.06);
+    border-color: rgba(139, 92, 246, 0.6);
+  }
+}
+
+.upload-zone-idle {
+  animation: uploadGlow 3s ease-in-out infinite;
+}
+
+.upload-zone-drag {
+  box-shadow:
+    0 0 50px rgba(99, 102, 241, 0.35),
+    inset 0 0 40px rgba(99, 102, 241, 0.1);
+  border-color: rgba(99, 102, 241, 0.9) !important;
+  background-color: rgba(99, 102, 241, 0.06) !important;
+}
+
+/* ── Recharts custom tooltip ────────────────────────────────── */
+.recharts-tooltip-wrapper {
+  outline: none !important;
+}
+
+/* ── Scrollbar ──────────────────────────────────────────────── */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: rgba(255, 255, 255, 0.03);
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(99, 102, 241, 0.4);
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(99, 102, 241, 0.7);
+}
+
+/* ── Skeleton shimmer ───────────────────────────────────────── */
+@keyframes shimmer {
+  0% {
+    background-position: -400px 0;
+  }
+  100% {
+    background-position: 400px 0;
+  }
+}
+
+.skeleton {
+  background: linear-gradient(
+    90deg,
+    rgba(255, 255, 255, 0.04) 25%,
+    rgba(255, 255, 255, 0.08) 50%,
+    rgba(255, 255, 255, 0.04) 75%
+  );
+  background-size: 800px 100%;
+  animation: shimmer 1.8s ease-in-out infinite;
 }

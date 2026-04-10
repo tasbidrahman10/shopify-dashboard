@@ -1,0 +1,161 @@
+Name,Email,Financial Status,Paid at,Fulfillment Status,Total,Subtotal,Shipping,Taxes,Lineitem quantity,Lineitem name,Lineitem price,Billing Country
+#1001,john.smith@gmail.com,paid,2024-01-05 09:23:11 UTC,fulfilled,89.99,79.99,10.00,0.00,1,Wireless Earbuds Pro,79.99,United States
+#1002,emily.jones@gmail.com,paid,2024-01-08 14:10:05 UTC,fulfilled,149.99,139.99,10.00,0.00,1,Smart Watch Series 3,139.99,United Kingdom
+#1003,marco.rossi@gmail.com,paid,2024-01-11 11:45:30 UTC,fulfilled,229.98,209.98,20.00,0.00,2,Wireless Earbuds Pro,79.99,Canada
+#1003,marco.rossi@gmail.com,paid,2024-01-11 11:45:30 UTC,fulfilled,229.98,209.98,20.00,0.00,1,Phone Stand Deluxe,50.00,Canada
+#1004,sara.lee@hotmail.com,paid,2024-01-15 16:32:00 UTC,fulfilled,349.99,329.99,20.00,0.00,1,Noise Cancelling Headphones,329.99,United States
+#1005,ahmed.ali@gmail.com,paid,2024-01-18 08:55:44 UTC,fulfilled,59.99,49.99,10.00,0.00,1,Phone Stand Deluxe,49.99,United Arab Emirates
+#1006,lisa.wang@gmail.com,paid,2024-01-22 13:20:15 UTC,fulfilled,179.99,159.99,20.00,0.00,1,Bluetooth Speaker Max,159.99,Australia
+#1007,james.brown@yahoo.com,paid,2024-01-25 10:05:30 UTC,fulfilled,99.99,89.99,10.00,0.00,1,Wireless Charger Pad,89.99,United States
+#1008,nina.schmidt@gmail.com,paid,2024-01-28 15:47:22 UTC,fulfilled,269.98,249.98,20.00,0.00,1,Smart Watch Series 3,139.99,Germany
+#1008,nina.schmidt@gmail.com,paid,2024-01-28 15:47:22 UTC,fulfilled,269.98,249.98,20.00,0.00,1,Wireless Earbuds Pro,109.99,Germany
+#1009,carlos.garcia@gmail.com,paid,2024-02-02 09:30:11 UTC,fulfilled,129.99,119.99,10.00,0.00,1,USB-C Hub 7-in-1,119.99,Spain
+#1010,anna.taylor@gmail.com,paid,2024-02-05 14:22:45 UTC,fulfilled,199.99,179.99,20.00,0.00,1,Noise Cancelling Headphones,179.99,United States
+#1011,tom.wilson@gmail.com,paid,2024-02-09 11:10:00 UTC,fulfilled,79.99,69.99,10.00,0.00,1,Wireless Charger Pad,69.99,United States
+#1012,yuki.tanaka@gmail.com,paid,2024-02-12 16:50:33 UTC,fulfilled,309.97,279.97,30.00,0.00,1,Bluetooth Speaker Max,159.99,Japan
+#1012,yuki.tanaka@gmail.com,paid,2024-02-12 16:50:33 UTC,fulfilled,309.97,279.97,30.00,0.00,2,Phone Stand Deluxe,59.99,Japan
+#1013,priya.patel@gmail.com,paid,2024-02-15 08:40:20 UTC,fulfilled,89.99,79.99,10.00,0.00,1,USB-C Hub 7-in-1,79.99,India
+#1014,david.miller@gmail.com,paid,2024-02-19 13:15:55 UTC,fulfilled,449.98,419.98,30.00,0.00,1,Smart Watch Series 3,139.99,United States
+#1014,david.miller@gmail.com,paid,2024-02-19 13:15:55 UTC,fulfilled,449.98,419.98,30.00,0.00,1,Noise Cancelling Headphones,279.99,United States
+#1015,sophie.martin@gmail.com,paid,2024-02-22 10:25:10 UTC,fulfilled,159.99,139.99,20.00,0.00,1,Wireless Earbuds Pro,139.99,France
+#1016,mike.johnson@gmail.com,paid,2024-02-26 15:30:45 UTC,fulfilled,229.99,209.99,20.00,0.00,2,Wireless Charger Pad,89.99,United States
+#1017,elena.petrov@gmail.com,paid,2024-03-01 09:05:30 UTC,fulfilled,199.99,179.99,20.00,0.00,1,Bluetooth Speaker Max,179.99,Russia
+#1018,chris.evans@gmail.com,paid,2024-03-04 14:50:22 UTC,fulfilled,329.99,299.99,30.00,0.00,1,Noise Cancelling Headphones,299.99,United States
+#1019,fatima.hassan@gmail.com,paid,2024-03-07 11:20:15 UTC,fulfilled,149.99,129.99,20.00,0.00,1,Smart Watch Series 3,129.99,Saudi Arabia
+#1020,lucas.silva@gmail.com,paid,2024-03-10 16:45:00 UTC,fulfilled,99.99,89.99,10.00,0.00,1,USB-C Hub 7-in-1,89.99,Brazil
+#1021,mia.anderson@gmail.com,paid,2024-03-13 08:30:55 UTC,fulfilled,269.98,249.98,20.00,0.00,1,Wireless Earbuds Pro,139.99,United States
+#1021,mia.anderson@gmail.com,paid,2024-03-13 08:30:55 UTC,fulfilled,269.98,249.98,20.00,0.00,1,Phone Stand Deluxe,109.99,United States
+#1022,olivier.dubois@gmail.com,paid,2024-03-16 13:10:40 UTC,fulfilled,399.99,369.99,30.00,0.00,1,Bluetooth Speaker Max,369.99,France
+#1023,hannah.white@gmail.com,paid,2024-03-19 10:55:25 UTC,fulfilled,179.99,159.99,20.00,0.00,2,Wireless Charger Pad,79.99,United Kingdom
+#1024,ravi.kumar@gmail.com,paid,2024-03-22 15:40:10 UTC,fulfilled,259.98,239.98,20.00,0.00,1,Smart Watch Series 3,139.99,India
+#1024,ravi.kumar@gmail.com,paid,2024-03-22 15:40:10 UTC,fulfilled,259.98,239.98,20.00,0.00,1,USB-C Hub 7-in-1,99.99,India
+#1025,jessica.clark@gmail.com,paid,2024-03-25 09:25:00 UTC,fulfilled,549.97,509.97,40.00,0.00,1,Noise Cancelling Headphones,329.99,United States
+#1025,jessica.clark@gmail.com,paid,2024-03-25 09:25:00 UTC,fulfilled,549.97,509.97,40.00,0.00,1,Smart Watch Series 3,109.99,United States
+#1025,jessica.clark@gmail.com,paid,2024-03-25 09:25:00 UTC,fulfilled,549.97,509.97,40.00,0.00,1,Wireless Earbuds Pro,69.99,United States
+#1026,ken.yamamoto@gmail.com,paid,2024-04-01 10:15:30 UTC,fulfilled,189.99,169.99,20.00,0.00,1,Bluetooth Speaker Max,169.99,Japan
+#1027,amy.robinson@gmail.com,paid,2024-04-04 14:30:45 UTC,fulfilled,109.99,99.99,10.00,0.00,1,Wireless Earbuds Pro,99.99,United States
+#1028,luca.bianchi@gmail.com,paid,2024-04-07 11:05:20 UTC,fulfilled,299.99,269.99,30.00,0.00,1,Noise Cancelling Headphones,269.99,Italy
+#1029,zara.ahmed@gmail.com,paid,2024-04-10 16:20:35 UTC,fulfilled,149.99,129.99,20.00,0.00,1,Smart Watch Series 3,129.99,Pakistan
+#1030,ryan.mitchell@gmail.com,paid,2024-04-13 08:45:00 UTC,fulfilled,219.98,199.98,20.00,0.00,2,USB-C Hub 7-in-1,99.99,United States
+#1031,natalie.harris@gmail.com,paid,2024-04-16 13:30:15 UTC,fulfilled,329.98,299.98,30.00,0.00,1,Bluetooth Speaker Max,189.99,United States
+#1031,natalie.harris@gmail.com,paid,2024-04-16 13:30:15 UTC,fulfilled,329.98,299.98,30.00,0.00,1,Wireless Charger Pad,109.99,United States
+#1032,benjamin.moore@gmail.com,paid,2024-04-19 10:10:50 UTC,fulfilled,179.99,159.99,20.00,0.00,1,Wireless Earbuds Pro,159.99,Canada
+#1033,Isabella.turner@gmail.com,paid,2024-04-22 15:55:25 UTC,fulfilled,89.99,79.99,10.00,0.00,1,Phone Stand Deluxe,79.99,United States
+#1034,alex.nguyen@gmail.com,paid,2024-04-25 09:40:10 UTC,fulfilled,459.98,419.98,40.00,0.00,1,Smart Watch Series 3,139.99,United States
+#1034,alex.nguyen@gmail.com,paid,2024-04-25 09:40:10 UTC,fulfilled,459.98,419.98,40.00,0.00,1,Noise Cancelling Headphones,279.99,United States
+#1035,grace.kelly@gmail.com,paid,2024-05-02 10:30:00 UTC,fulfilled,219.99,199.99,20.00,0.00,1,Bluetooth Speaker Max,199.99,Ireland
+#1036,victor.hugo@gmail.com,paid,2024-05-05 14:15:45 UTC,fulfilled,99.99,89.99,10.00,0.00,1,USB-C Hub 7-in-1,89.99,France
+#1037,sarah.connor@gmail.com,paid,2024-05-08 11:50:30 UTC,fulfilled,389.98,349.98,40.00,0.00,1,Noise Cancelling Headphones,249.99,United States
+#1037,sarah.connor@gmail.com,paid,2024-05-08 11:50:30 UTC,fulfilled,389.98,349.98,40.00,0.00,1,Wireless Earbuds Pro,99.99,United States
+#1038,pablo.hernandez@gmail.com,paid,2024-05-11 16:35:15 UTC,fulfilled,159.99,139.99,20.00,0.00,1,Smart Watch Series 3,139.99,Mexico
+#1039,diana.prince@gmail.com,paid,2024-05-14 08:20:00 UTC,fulfilled,249.99,229.99,20.00,0.00,1,Bluetooth Speaker Max,229.99,United States
+#1040,ethan.hunt@gmail.com,paid,2024-05-17 13:05:45 UTC,fulfilled,169.98,149.98,20.00,0.00,2,Wireless Charger Pad,74.99,United States
+#1041,olivia.newton@gmail.com,paid,2024-05-20 10:50:30 UTC,fulfilled,129.99,119.99,10.00,0.00,1,USB-C Hub 7-in-1,119.99,Australia
+#1042,peter.parker@gmail.com,paid,2024-05-23 15:35:15 UTC,fulfilled,299.98,269.98,30.00,0.00,1,Wireless Earbuds Pro,149.99,United States
+#1042,peter.parker@gmail.com,paid,2024-05-23 15:35:15 UTC,fulfilled,299.98,269.98,30.00,0.00,1,Phone Stand Deluxe,119.99,United States
+#1043,claire.fontaine@gmail.com,paid,2024-05-26 09:20:00 UTC,fulfilled,379.99,349.99,30.00,0.00,1,Noise Cancelling Headphones,349.99,France
+#1044,harry.potter@gmail.com,paid,2024-06-02 10:45:30 UTC,fulfilled,189.99,169.99,20.00,0.00,1,Smart Watch Series 3,169.99,United Kingdom
+#1045,tony.stark@gmail.com,paid,2024-06-05 14:30:15 UTC,fulfilled,599.97,549.97,50.00,0.00,1,Noise Cancelling Headphones,299.99,United States
+#1045,tony.stark@gmail.com,paid,2024-06-05 14:30:15 UTC,fulfilled,599.97,549.97,50.00,0.00,1,Bluetooth Speaker Max,149.99,United States
+#1045,tony.stark@gmail.com,paid,2024-06-05 14:30:15 UTC,fulfilled,599.97,549.97,50.00,0.00,1,Wireless Earbuds Pro,99.99,United States
+#1046,natasha.romanoff@gmail.com,paid,2024-06-08 11:15:00 UTC,fulfilled,109.99,99.99,10.00,0.00,1,Wireless Charger Pad,99.99,Russia
+#1047,bruce.banner@gmail.com,paid,2024-06-11 16:00:45 UTC,fulfilled,239.99,219.99,20.00,0.00,1,USB-C Hub 7-in-1,219.99,United States
+#1048,clark.kent@gmail.com,paid,2024-06-14 08:45:30 UTC,fulfilled,329.99,299.99,30.00,0.00,1,Bluetooth Speaker Max,299.99,United States
+#1049,lois.lane@gmail.com,paid,2024-06-17 13:30:15 UTC,fulfilled,179.99,159.99,20.00,0.00,1,Wireless Earbuds Pro,159.99,United States
+#1050,diana.ross@gmail.com,paid,2024-06-20 10:15:00 UTC,fulfilled,259.99,239.99,20.00,0.00,1,Smart Watch Series 3,239.99,United States
+#1051,freddie.mercury@gmail.com,paid,2024-06-23 15:00:45 UTC,fulfilled,149.99,129.99,20.00,0.00,1,Phone Stand Deluxe,129.99,United Kingdom
+#1052,mick.jagger@gmail.com,paid,2024-07-01 09:45:30 UTC,fulfilled,279.99,249.99,30.00,0.00,1,Noise Cancelling Headphones,249.99,United Kingdom
+#1053,david.bowie@gmail.com,paid,2024-07-04 14:30:15 UTC,fulfilled,199.99,179.99,20.00,0.00,1,Bluetooth Speaker Max,179.99,United Kingdom
+#1054,elton.john@gmail.com,paid,2024-07-07 11:15:00 UTC,fulfilled,139.99,129.99,10.00,0.00,1,Wireless Earbuds Pro,129.99,United Kingdom
+#1055,paul.mccartney@gmail.com,paid,2024-07-10 16:00:45 UTC,fulfilled,489.98,449.98,40.00,0.00,1,Smart Watch Series 3,219.99,United Kingdom
+#1055,paul.mccartney@gmail.com,paid,2024-07-10 16:00:45 UTC,fulfilled,489.98,449.98,40.00,0.00,1,Noise Cancelling Headphones,229.99,United Kingdom
+#1056,john.lennon@gmail.com,paid,2024-07-13 08:45:30 UTC,fulfilled,119.99,109.99,10.00,0.00,1,USB-C Hub 7-in-1,109.99,United States
+#1057,george.harrison@gmail.com,paid,2024-07-16 13:30:15 UTC,fulfilled,259.99,239.99,20.00,0.00,1,Bluetooth Speaker Max,239.99,United States
+#1058,ringo.starr@gmail.com,paid,2024-07-19 10:15:00 UTC,fulfilled,99.99,89.99,10.00,0.00,1,Wireless Charger Pad,89.99,United States
+#1059,bob.dylan@gmail.com,paid,2024-07-22 15:00:45 UTC,fulfilled,369.98,339.98,30.00,0.00,1,Noise Cancelling Headphones,219.99,United States
+#1059,bob.dylan@gmail.com,paid,2024-07-22 15:00:45 UTC,fulfilled,369.98,339.98,30.00,0.00,1,Smart Watch Series 3,119.99,United States
+#1060,jimi.hendrix@gmail.com,paid,2024-07-25 09:45:30 UTC,fulfilled,149.99,139.99,10.00,0.00,1,Wireless Earbuds Pro,139.99,United States
+#1061,janis.joplin@gmail.com,paid,2024-07-28 14:30:15 UTC,fulfilled,209.99,189.99,20.00,0.00,1,USB-C Hub 7-in-1,189.99,United States
+#1062,kurt.cobain@gmail.com,paid,2024-08-02 11:15:00 UTC,fulfilled,299.99,279.99,20.00,0.00,1,Bluetooth Speaker Max,279.99,United States
+#1063,eddie.vedder@gmail.com,paid,2024-08-05 16:00:45 UTC,fulfilled,179.99,159.99,20.00,0.00,1,Wireless Earbuds Pro,159.99,United States
+#1064,thom.yorke@gmail.com,paid,2024-08-08 08:45:30 UTC,fulfilled,439.98,399.98,40.00,0.00,1,Smart Watch Series 3,199.99,United Kingdom
+#1064,thom.yorke@gmail.com,paid,2024-08-08 08:45:30 UTC,fulfilled,439.98,399.98,40.00,0.00,1,Noise Cancelling Headphones,199.99,United Kingdom
+#1065,billie.eilish@gmail.com,paid,2024-08-11 13:30:15 UTC,fulfilled,129.99,119.99,10.00,0.00,1,Wireless Charger Pad,119.99,United States
+#1066,taylor.swift@gmail.com,paid,2024-08-14 10:15:00 UTC,fulfilled,269.99,249.99,20.00,0.00,1,Bluetooth Speaker Max,249.99,United States
+#1067,ariana.grande@gmail.com,paid,2024-08-17 15:00:45 UTC,fulfilled,189.99,169.99,20.00,0.00,1,Wireless Earbuds Pro,169.99,United States
+#1068,shawn.mendes@gmail.com,paid,2024-08-20 09:45:30 UTC,fulfilled,349.99,319.99,30.00,0.00,1,Noise Cancelling Headphones,319.99,Canada
+#1069,justin.bieber@gmail.com,paid,2024-08-23 14:30:15 UTC,fulfilled,159.99,149.99,10.00,0.00,1,USB-C Hub 7-in-1,149.99,Canada
+#1070,the.weeknd@gmail.com,paid,2024-08-26 11:15:00 UTC,fulfilled,509.97,469.97,40.00,0.00,1,Smart Watch Series 3,229.99,Canada
+#1070,the.weeknd@gmail.com,paid,2024-08-26 11:15:00 UTC,fulfilled,509.97,469.97,40.00,0.00,1,Bluetooth Speaker Max,129.99,Canada
+#1070,the.weeknd@gmail.com,paid,2024-08-26 11:15:00 UTC,fulfilled,509.97,469.97,40.00,0.00,1,Wireless Earbuds Pro,109.99,Canada
+#1071,drake.graham@gmail.com,paid,2024-09-02 10:00:00 UTC,fulfilled,219.99,199.99,20.00,0.00,1,Noise Cancelling Headphones,199.99,Canada
+#1072,kanye.west@gmail.com,paid,2024-09-05 14:45:30 UTC,fulfilled,149.99,139.99,10.00,0.00,1,Wireless Charger Pad,139.99,United States
+#1073,jay.z@gmail.com,paid,2024-09-08 11:30:15 UTC,fulfilled,279.99,259.99,20.00,0.00,1,Bluetooth Speaker Max,259.99,United States
+#1074,beyonce.knowles@gmail.com,paid,2024-09-11 16:15:00 UTC,fulfilled,359.98,329.98,30.00,0.00,1,Smart Watch Series 3,179.99,United States
+#1074,beyonce.knowles@gmail.com,paid,2024-09-11 16:15:00 UTC,fulfilled,359.98,329.98,30.00,0.00,1,Wireless Earbuds Pro,149.99,United States
+#1075,rihanna.fenty@gmail.com,paid,2024-09-14 09:00:45 UTC,fulfilled,109.99,99.99,10.00,0.00,1,Phone Stand Deluxe,99.99,Barbados
+#1076,nicki.minaj@gmail.com,paid,2024-09-17 13:45:30 UTC,fulfilled,399.99,369.99,30.00,0.00,1,Noise Cancelling Headphones,369.99,United States
+#1077,cardi.b@gmail.com,paid,2024-09-20 10:30:15 UTC,fulfilled,229.99,209.99,20.00,0.00,1,Bluetooth Speaker Max,209.99,United States
+#1078,post.malone@gmail.com,paid,2024-09-23 15:15:00 UTC,fulfilled,169.99,159.99,10.00,0.00,1,Wireless Earbuds Pro,159.99,United States
+#1079,ed.sheeran@gmail.com,paid,2024-09-26 08:00:45 UTC,fulfilled,479.98,439.98,40.00,0.00,1,Smart Watch Series 3,239.99,United Kingdom
+#1079,ed.sheeran@gmail.com,paid,2024-09-26 08:00:45 UTC,fulfilled,479.98,439.98,40.00,0.00,1,USB-C Hub 7-in-1,199.99,United Kingdom
+#1080,adele.adkins@gmail.com,paid,2024-10-01 10:15:30 UTC,fulfilled,319.99,289.99,30.00,0.00,1,Noise Cancelling Headphones,289.99,United Kingdom
+#1081,sam.smith@gmail.com,paid,2024-10-04 14:00:15 UTC,fulfilled,199.99,179.99,20.00,0.00,1,Bluetooth Speaker Max,179.99,United Kingdom
+#1082,lewis.capaldi@gmail.com,paid,2024-10-07 11:45:00 UTC,fulfilled,149.99,139.99,10.00,0.00,1,Wireless Earbuds Pro,139.99,United Kingdom
+#1083,dua.lipa@gmail.com,paid,2024-10-10 16:30:45 UTC,fulfilled,269.98,249.98,20.00,0.00,1,Smart Watch Series 3,149.99,Albania
+#1083,dua.lipa@gmail.com,paid,2024-10-10 16:30:45 UTC,fulfilled,269.98,249.98,20.00,0.00,1,Wireless Charger Pad,99.99,Albania
+#1084,harry.styles@gmail.com,paid,2024-10-13 09:15:30 UTC,fulfilled,459.99,419.99,40.00,0.00,1,Noise Cancelling Headphones,419.99,United Kingdom
+#1085,zayn.malik@gmail.com,paid,2024-10-16 13:00:15 UTC,fulfilled,189.99,169.99,20.00,0.00,1,Bluetooth Speaker Max,169.99,United Kingdom
+#1086,niall.horan@gmail.com,paid,2024-10-19 10:45:00 UTC,fulfilled,119.99,109.99,10.00,0.00,1,USB-C Hub 7-in-1,109.99,Ireland
+#1087,louis.tomlinson@gmail.com,paid,2024-10-22 15:30:45 UTC,fulfilled,349.98,319.98,30.00,0.00,1,Wireless Earbuds Pro,179.99,United Kingdom
+#1087,louis.tomlinson@gmail.com,paid,2024-10-22 15:30:45 UTC,fulfilled,349.98,319.98,30.00,0.00,1,Smart Watch Series 3,139.99,United Kingdom
+#1088,liam.payne@gmail.com,paid,2024-10-25 08:15:30 UTC,fulfilled,279.99,259.99,20.00,0.00,1,Noise Cancelling Headphones,259.99,United Kingdom
+#1089,charlie.puth@gmail.com,paid,2024-11-01 10:30:15 UTC,fulfilled,239.99,219.99,20.00,0.00,1,Bluetooth Speaker Max,219.99,United States
+#1090,selena.gomez@gmail.com,paid,2024-11-04 14:15:00 UTC,fulfilled,169.99,159.99,10.00,0.00,1,Wireless Earbuds Pro,159.99,United States
+#1091,miley.cyrus@gmail.com,paid,2024-11-07 11:00:45 UTC,fulfilled,529.97,489.97,40.00,0.00,1,Smart Watch Series 3,259.99,United States
+#1091,miley.cyrus@gmail.com,paid,2024-11-07 11:00:45 UTC,fulfilled,529.97,489.97,40.00,0.00,1,Noise Cancelling Headphones,149.99,United States
+#1091,miley.cyrus@gmail.com,paid,2024-11-07 11:00:45 UTC,fulfilled,529.97,489.97,40.00,0.00,1,USB-C Hub 7-in-1,79.99,United States
+#1092,demi.lovato@gmail.com,paid,2024-11-10 16:45:30 UTC,fulfilled,129.99,119.99,10.00,0.00,1,Wireless Charger Pad,119.99,United States
+#1093,jonas.brothers@gmail.com,paid,2024-11-13 09:30:15 UTC,fulfilled,299.99,279.99,20.00,0.00,1,Bluetooth Speaker Max,279.99,United States
+#1094,5sos.band@gmail.com,paid,2024-11-16 13:15:00 UTC,fulfilled,199.99,179.99,20.00,0.00,1,Wireless Earbuds Pro,179.99,Australia
+#1095,one.republic@gmail.com,paid,2024-11-19 10:00:45 UTC,fulfilled,389.99,359.99,30.00,0.00,1,Noise Cancelling Headphones,359.99,United States
+#1096,imagine.dragons@gmail.com,paid,2024-11-22 14:45:30 UTC,fulfilled,249.99,229.99,20.00,0.00,1,Smart Watch Series 3,229.99,United States
+#1097,coldplay.band@gmail.com,paid,2024-11-25 11:30:15 UTC,fulfilled,179.99,159.99,20.00,0.00,1,USB-C Hub 7-in-1,159.99,United Kingdom
+#1098,maroon5.band@gmail.com,paid,2024-11-28 16:15:00 UTC,fulfilled,319.99,289.99,30.00,0.00,1,Bluetooth Speaker Max,289.99,United States
+#1099,linkin.park@gmail.com,paid,2024-12-02 09:00:45 UTC,fulfilled,449.98,409.98,40.00,0.00,1,Noise Cancelling Headphones,259.99,United States
+#1099,linkin.park@gmail.com,paid,2024-12-02 09:00:45 UTC,fulfilled,449.98,409.98,40.00,0.00,1,Smart Watch Series 3,149.99,United States
+#1100,green.day@gmail.com,paid,2024-12-05 13:45:30 UTC,fulfilled,189.99,169.99,20.00,0.00,1,Wireless Earbuds Pro,169.99,United States
+#1101,blink182.band@gmail.com,paid,2024-12-08 10:30:15 UTC,fulfilled,269.99,249.99,20.00,0.00,1,Bluetooth Speaker Max,249.99,United States
+#1102,sum41.band@gmail.com,paid,2024-12-11 15:15:00 UTC,fulfilled,139.99,129.99,10.00,0.00,1,Wireless Charger Pad,129.99,Canada
+#1103,offspring.band@gmail.com,paid,2024-12-14 08:00:45 UTC,fulfilled,499.97,459.97,40.00,0.00,1,Smart Watch Series 3,199.99,United States
+#1103,offspring.band@gmail.com,paid,2024-12-14 08:00:45 UTC,fulfilled,499.97,459.97,40.00,0.00,1,Noise Cancelling Headphones,179.99,United States
+#1103,offspring.band@gmail.com,paid,2024-12-14 08:00:45 UTC,fulfilled,499.97,459.97,40.00,0.00,1,Bluetooth Speaker Max,79.99,United States
+#1104,paramore.band@gmail.com,paid,2024-12-17 12:45:30 UTC,fulfilled,219.99,199.99,20.00,0.00,1,Wireless Earbuds Pro,199.99,United States
+#1105,foo.fighters@gmail.com,paid,2024-12-20 09:30:15 UTC,fulfilled,359.99,329.99,30.00,0.00,1,Noise Cancelling Headphones,329.99,United States
+#1106,red.hot.chili@gmail.com,paid,2024-12-23 14:15:00 UTC,fulfilled,289.99,269.99,20.00,0.00,1,Bluetooth Speaker Max,269.99,United States
+#1107,pearl.jam@gmail.com,paid,2024-12-26 11:00:45 UTC,fulfilled,169.99,159.99,10.00,0.00,1,USB-C Hub 7-in-1,159.99,United States
+#1108,soundgarden@gmail.com,paid,2024-12-28 16:45:30 UTC,fulfilled,579.97,529.97,50.00,0.00,1,Smart Watch Series 3,249.99,United States
+#1108,soundgarden@gmail.com,paid,2024-12-28 16:45:30 UTC,fulfilled,579.97,529.97,50.00,0.00,1,Noise Cancelling Headphones,199.99,United States
+#1108,soundgarden@gmail.com,paid,2024-12-28 16:45:30 UTC,fulfilled,579.97,529.97,50.00,0.00,1,Wireless Earbuds Pro,79.99,United States
+#1109,john.smith@gmail.com,paid,2024-04-12 10:30:00 UTC,fulfilled,199.99,179.99,20.00,0.00,1,Bluetooth Speaker Max,179.99,United States
+#1110,john.smith@gmail.com,paid,2024-08-15 14:20:00 UTC,fulfilled,179.99,159.99,20.00,0.00,1,Smart Watch Series 3,159.99,United States
+#1111,john.smith@gmail.com,paid,2024-11-20 09:10:00 UTC,fulfilled,299.99,279.99,20.00,0.00,1,Noise Cancelling Headphones,279.99,United States
+#1112,anna.taylor@gmail.com,paid,2024-05-18 11:45:00 UTC,fulfilled,119.99,99.99,20.00,0.00,1,Wireless Earbuds Pro,99.99,United States
+#1113,anna.taylor@gmail.com,paid,2024-09-14 16:00:00 UTC,fulfilled,109.99,89.99,20.00,0.00,1,USB-C Hub 7-in-1,89.99,United States
+#1114,anna.taylor@gmail.com,paid,2024-12-10 08:30:00 UTC,fulfilled,239.99,219.99,20.00,0.00,1,Bluetooth Speaker Max,219.99,United States
+#1115,jessica.clark@gmail.com,paid,2024-06-28 13:15:00 UTC,fulfilled,169.99,149.99,20.00,0.00,1,Smart Watch Series 3,149.99,United States
+#1116,jessica.clark@gmail.com,paid,2024-10-30 10:45:00 UTC,fulfilled,139.99,119.99,20.00,0.00,1,Wireless Charger Pad,119.99,United States
+#1117,emily.jones@gmail.com,paid,2024-04-22 15:00:00 UTC,fulfilled,119.99,99.99,20.00,0.00,1,USB-C Hub 7-in-1,99.99,United Kingdom
+#1118,emily.jones@gmail.com,paid,2024-08-28 09:30:00 UTC,fulfilled,99.99,79.99,20.00,0.00,1,Phone Stand Deluxe,79.99,United Kingdom
+#1119,david.miller@gmail.com,paid,2024-06-20 14:00:00 UTC,fulfilled,149.99,129.99,20.00,0.00,1,Wireless Earbuds Pro,129.99,United States
+#1120,david.miller@gmail.com,paid,2024-10-18 11:30:00 UTC,fulfilled,279.99,259.99,20.00,0.00,1,Noise Cancelling Headphones,259.99,United States
+#1121,marco.rossi@gmail.com,paid,2024-04-30 16:45:00 UTC,fulfilled,139.99,119.99,20.00,0.00,1,Smart Watch Series 3,119.99,Canada
+#1122,sara.lee@hotmail.com,paid,2024-05-25 10:00:00 UTC,fulfilled,219.99,199.99,20.00,0.00,1,Bluetooth Speaker Max,199.99,United States
+#1123,ravi.kumar@gmail.com,paid,2024-06-15 15:30:00 UTC,fulfilled,109.99,89.99,20.00,0.00,1,Wireless Charger Pad,89.99,India
+#1124,mia.anderson@gmail.com,paid,2024-07-20 10:00:00 UTC,fulfilled,269.99,249.99,20.00,0.00,1,Noise Cancelling Headphones,249.99,United States
+#1125,mia.anderson@gmail.com,paid,2024-11-15 14:30:00 UTC,fulfilled,189.99,169.99,20.00,0.00,1,Smart Watch Series 3,169.99,United States
+#1126,carlos.garcia@gmail.com,paid,2024-05-30 11:15:00 UTC,fulfilled,179.99,159.99,20.00,0.00,1,Bluetooth Speaker Max,159.99,Spain
+#1127,carlos.garcia@gmail.com,paid,2024-09-20 16:45:00 UTC,fulfilled,139.99,119.99,20.00,0.00,1,Wireless Earbuds Pro,119.99,Spain
+#1128,yuki.tanaka@gmail.com,paid,2024-07-08 09:00:00 UTC,fulfilled,309.99,289.99,20.00,0.00,1,Noise Cancelling Headphones,289.99,Japan
+#1129,yuki.tanaka@gmail.com,paid,2024-11-25 14:00:00 UTC,fulfilled,169.99,149.99,20.00,0.00,1,Wireless Earbuds Pro,149.99,Japan
+#1130,priya.patel@gmail.com,paid,2024-06-10 10:30:00 UTC,fulfilled,179.99,159.99,20.00,0.00,1,Smart Watch Series 3,159.99,India
